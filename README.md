@@ -2,7 +2,7 @@
 ![YourTurn](https://user-images.githubusercontent.com/54865934/167538570-61b5d95e-40f3-4aee-b1c3-9dcb5613d668.png)
 
 Speeds up turns by reducing the beginning of turn banner display time.
-When each side begins a turn, the "Your Turn" banner is displayed.  However, the AI won't actually start it's turn until the banner disappears.
+When each side begins a turn, the "Your Turn" banner is displayed; however, the AI won't actually start it's turn until the banner disappears or the user presses a key.
 
 This mod changes the default 1.5 second banner display to .1 seconds.  
 
