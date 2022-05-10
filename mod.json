@@ -1,0 +1,16 @@
+﻿{
+  "Name": "BT_FasterTurn",
+  "Version": "1.0.0",
+  "Description": "Changes the start of turn banner to make combat turns faster",
+  "Author": "NBK_RedSpy",
+  "Website": "https://github.com/NBKRedSpy/BT_FasterTurn",
+
+  "Enabled": true,
+
+  "DLL": "BT_FasterTurn.dll",
+
+  "Settings": {
+    "StartTurnDelaySeconds": ".1"
+  }
+
+}

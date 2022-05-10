@@ -1,0 +1,7 @@
+C:\src\BT_FasterTurn\BT_FasterTurn\bin\Release\mod.json
+C:\src\BT_FasterTurn\BT_FasterTurn\bin\Release\BT_FasterTurn.dll
+C:\src\BT_FasterTurn\BT_FasterTurn\bin\Release\BT_FasterTurn.pdb
+C:\src\BT_FasterTurn\BT_FasterTurn\obj\Release\BT_FasterTurn.csproj.AssemblyReference.cache
+C:\src\BT_FasterTurn\BT_FasterTurn\obj\Release\BT_FasterTurn.csproj.CoreCompileInputs.cache
+C:\src\BT_FasterTurn\BT_FasterTurn\obj\Release\BT_FasterTurn.dll
+C:\src\BT_FasterTurn\BT_FasterTurn\obj\Release\BT_FasterTurn.pdb
