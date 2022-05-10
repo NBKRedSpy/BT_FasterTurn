@@ -8,6 +8,7 @@ This mod changes the default 1.5 second banner display to .1 seconds.
 
 No animations or game speed is modified.
 
+# mod.json Settings
 
 Setting | Description|
 |---|---|
