@@ -17,4 +17,4 @@ StartTurnDelaySeconds = .1| The time in seconds to show the turn banner.
 The ModTek mod loader must already be installed and configured.
 
 
-Download the latest BT_FastenTurn.zip from [here](https://github.com/NBKRedSpy/BT_FasterTurn/releases/latest/download/BT_FasterTurn.zip) and unzip to the Battletech Mods folder.
+Download the latest BT_FastenTurn.zip from [here](https://github.com/NBKRedSpy/BT_FasterTurn/releases/latest/) and unzip to the Battletech Mods folder.
