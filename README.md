@@ -10,7 +10,8 @@ This mod changes the default 1.5 second banner display to .1 seconds.  Turns are
 No animations or game speed is modified.
 
 # Compatibility
-Compatible with existing saves should not conflict with any mods.
+This should be compatible with all mods.
+Safe to add to and remove from existing saves.
 
 
 # mod.json Settings
